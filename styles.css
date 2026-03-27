@@ -2,3 +2,38 @@
     box-sizing: border-box;
 }
 
+.gray-bg{
+    background-color: gray;
+}
+
+#heading{
+    background-color: pink;
+    color: white;
+}
+
+.p1{
+    color: yellow;
+}
+
+.p2{
+    color: lime;
+}
+
+.p3{
+    color: rgb(176, 198, 237);
+}
+
+.border1{
+    border: 5px orange solid;
+    background-color: azure;
+    padding-bottom: 40px;
+}
+
+.white-text{
+    color: white;
+}
+
+.highlight{
+    background-color: yellow;
+    color: black;
+}
