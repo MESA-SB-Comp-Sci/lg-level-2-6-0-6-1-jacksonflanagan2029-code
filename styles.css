@@ -32,8 +32,18 @@
 .white-text{
     color: white;
 }
+.together{
+    display: inline-block;
+}
 
-.highlight{
-    background-color: yellow;
-    color: black;
+.alone{
+    display: block;
+}
+
+.together2{
+    display: inline;
+}
+
+li{
+    display: inline-block;
 }
