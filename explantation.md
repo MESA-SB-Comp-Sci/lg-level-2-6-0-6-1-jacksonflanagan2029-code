@@ -7,3 +7,5 @@ I added a class named highlight to one of the lists. I used a background color o
 
 
 
+1.) One thing I like about this code is that he used the class symbol for all his codes.
+He does'nt need to improve anything based on what the rubic is listed to get a 4.
